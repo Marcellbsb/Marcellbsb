@@ -22,8 +22,8 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div><br/>
-Cada linha de código, cada protocolo de rede e cada algoritmo é uma oportunidade para aprender algo novo. Estou sempre explorando, pesquisando e experimentando.
-Sede de conhecimento, curiosidade insaciável e resiliência diante dos desafios definem definem minha essência.
+Cada linha de código, cada protocolo de rede e cada algoritmo é uma oportunidade para aprender algo novo. Estou sempre explorando, pesquisando e experimentando.<br/>
+Sede de conhecimento, curiosidade insaciável e resiliência diante dos desafios definem minha essência.
 
 
 
