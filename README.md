@@ -1,4 +1,4 @@
-### Bem vindo ! Me chamo Marcelo Ramo🖖🏽
+### Bem vindo ! Me chamo Marcelo Ramos🖖🏽
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcellbsb&show_icons=true&theme=merko)
 
