@@ -23,7 +23,7 @@
 
 </div><br/>
 Cada linha de código, cada protocolo de rede e cada algoritmo é uma oportunidade para aprender algo novo. Estou sempre explorando, pesquisando e experimentando.
-###### Sede de conhecimento, curiosidade insaciável e resiliência diante dos desafios definem definem minha essência.
+Sede de conhecimento, curiosidade insaciável e resiliência diante dos desafios definem definem minha essência.
 
 
 
