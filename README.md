@@ -5,8 +5,8 @@
 <p></br>Sou estudante do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.</p>
 </div>
 </div>
- <p align="center">A cada trecho de código aprendido, cada comando digitado, desperta em mim uma curiosidade insaciável de aprender o máximo possível desse mundo formidável e viciante que é o universo tecnológico . Estou sempre explorando, pesquisando e experimentando, para que de alguma forma, possa também contribuir agregando produtos e soluções de valor em meio à sociedade.<br/>
-Tenho sede de conhecimento, curiosidade insaciável e muita resiliência diante dos desafios.
+ <p align="center">A cada trecho de código aprendido, a cada comando digitado, faz despertar em mim uma curiosidade insaciável de aprender o máximo possível desse mundo formidável e viciante que é o universo tecnológico . Estou sempre explorando, pesquisando e experimentando, para que de alguma forma, possa também contribuir agregando produtos e soluções de valor em meio à sociedade.<br/>
+Tenho sede de conhecimento, comprometimento e muita resiliência diante dos desafios.
 </p>
 
 <p align="center">"Tudo aquilo que o homem ignora, não existe para ele.<br/> Por isso o universo de cada um, se resume no tamanho do seu saber." (A. Einstein)</p></br>
