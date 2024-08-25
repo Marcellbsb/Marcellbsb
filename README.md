@@ -5,7 +5,7 @@
 <p></br>Sou estudante do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.</p>
 </div>
 </div>
- <p align="center">A cada trecho de código aprendido, cada comando digitado, desperta em mim uma curiosidade insaciável de aprender o máximo possível desse mundo formidável e viciante que é o universo tecnológico . Estou sempre explorando, pesquisando e experimentando, para que de alguma forma, possa também contribuir agregando produtos e soluções de valor em meio a sociedade.<br/>
+ <p align="center">A cada trecho de código aprendido, cada comando digitado, desperta em mim uma curiosidade insaciável de aprender o máximo possível desse mundo formidável e viciante que é o universo tecnológico . Estou sempre explorando, pesquisando e experimentando, para que de alguma forma, possa também contribuir agregando produtos e soluções de valor em meio à sociedade.<br/>
 Tenho sede de conhecimento, curiosidade insaciável e muita resiliência diante dos desafios.
 </p>
 
